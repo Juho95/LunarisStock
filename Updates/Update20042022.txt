@@ -1,0 +1,2 @@
+- Only one Percentage Form can be open at once. Opening a new one closes the previous one.
+- Player names can be now changed and edited
